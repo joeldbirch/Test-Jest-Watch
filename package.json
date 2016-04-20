@@ -1,5 +1,5 @@
 {
-  "name": "testjest",
+  "name": "testjestwatch",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "jest-cli": "^11.0.1"
+    "jest-cli": "^11.0.2"
   }
 }
