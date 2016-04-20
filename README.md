@@ -1,4 +1,4 @@
-# Jest --watch error
+# Jest flags issues
 
 ## Steps to reproduce the --watch issue:
 
